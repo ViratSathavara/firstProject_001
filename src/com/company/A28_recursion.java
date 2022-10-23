@@ -11,11 +11,6 @@ public class A28_recursion {
     }
         static int factorial_iterative(int n) {
             if (n == 0 || n == 1) {
-
-
-
-
-
                 return 1;
             } else {
                 int product = 1;
